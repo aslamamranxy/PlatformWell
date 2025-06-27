@@ -1,4 +1,4 @@
-namespace PlatformWell.App.Constant;
+namespace PlatformWell.Application.Constant;
 
 public static class ConnectionStringKeys
 {

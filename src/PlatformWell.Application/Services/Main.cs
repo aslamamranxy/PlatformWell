@@ -2,7 +2,7 @@ using Microsoft.Extensions.Options;
 using PlatformWell.Core.Models.Options;
 using PlatformWell.Services.DI;
 
-namespace PlatformWell.App.Services;
+namespace PlatformWell.Application.Services;
 
 public class Main(ServiceManager serviceManager)
 {

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformWell.App", "src\PlatformWell.App\PlatformWell.App.csproj", "{DDEA67DB-B72A-418D-8402-34C44B115828}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformWell.Application", "src\PlatformWell.Application\PlatformWell.Application.csproj", "{DDEA67DB-B72A-418D-8402-34C44B115828}"
 	ProjectSection(ProjectDependencies) = postProject
 		{790673C3-2953-4FEB-94C5-64D9E8259AB2} = {790673C3-2953-4FEB-94C5-64D9E8259AB2}
 		{841BB98A-FDF0-4F94-872F-ABDBA9C50389} = {841BB98A-FDF0-4F94-872F-ABDBA9C50389}

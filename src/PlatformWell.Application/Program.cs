@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using PlatformWell.App.Services;
-using PlatformWell.App.Services.Startup;
+using PlatformWell.Application.Services;
+using PlatformWell.Application.Services.Startup;
 
 var host = Host.CreateDefaultBuilder(args)
     .ConfigureAppConfiguration(config =>

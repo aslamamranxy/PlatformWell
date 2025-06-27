@@ -1,13 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using PlatformWell.App.Constant;
+using PlatformWell.Application.Constant;
 using PlatformWell.Core.Models.Options;
 using PlatformWell.Infra.Data;
 using PlatformWell.Services.DI;
 using PlatformWell.Services.AuthServices;
 
-namespace PlatformWell.App.Services.Startup;
+namespace PlatformWell.Application.Services.Startup;
 
 public static partial class ServiceInitializer
 {
